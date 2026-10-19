@@ -9,6 +9,18 @@ h1 {
   padding: 1rem;
 }
 
+.card2 {
+  border: 1px solid red;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.card3 {
+  border: 1px solid blue;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
 .card-container {
   display: flex;
   gap: 20px;
